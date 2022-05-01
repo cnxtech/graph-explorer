@@ -43,7 +43,7 @@ setup_params = dict(
     ]},
     scripts=glob("bin/*.py"),
     install_requires=[
-        "bottle==0.11.6",
+        "bottle==0.12.19",
         "urllib3==1.7.1",  # 71f84f9ab29b9a2818a138fa000bcf75bb05812a
         "elasticsearch==0.4.3",  # 422d43f4f8c981a5d93b06eefc3ce8f261cfb48c
         "paste==1.7.5.1",
